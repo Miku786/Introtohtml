@@ -1,0 +1,30 @@
+/* Body Styling */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  /* Heading Styling */
+  h1 {
+    color: navy;
+    font-size: 2em;
+  }
+  
+  /* Paragraph Styling */
+  p {
+    color: darkslategray;
+    font-size: 1.2em;
+  }
+  
+  /* List Styling */
+  ul {
+    list-style-type: square;
+  }
+  
+  /* Image Styling */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
